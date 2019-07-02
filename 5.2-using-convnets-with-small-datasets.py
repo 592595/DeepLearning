@@ -1,5 +1,6 @@
 import os, shutil
 
+# 1、下载数据
 # The path to the directory where the original
 # dataset was uncompressed
 original_dataset_dir = 'Downloads/kaggle_original_data'
